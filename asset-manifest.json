@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.039bf95e.css",
+    "main.js": "/static/js/main.3d7fd115.js",
+    "static/media/Eris.png": "/static/media/Eris.5bc251668efb9eeb5275.png",
+    "static/media/cpp.png": "/static/media/cpp.666af1b3598c92045b63.png",
+    "static/media/Hello.gif": "/static/media/Hello.d93720933c608f6178fb.gif",
+    "static/media/OEE.jpg": "/static/media/OEE.dab41b37525b06e99b6d.jpg",
+    "static/media/ESS.jpg": "/static/media/ESS.6081fffee5a673e650aa.jpg",
+    "static/media/TRACE.jpg": "/static/media/TRACE.5eeac9e8e493dc75d5d6.jpg",
+    "static/media/ERP.png": "/static/media/ERP.9185830d1e8901f103e6.png",
+    "static/media/illustration.svg": "/static/media/illustration.b36f05be655580b856316b6d0c3f6724.svg",
+    "static/media/CV_Eris.docx.pdf": "/static/media/CV_Eris.docx.eefaa0a3db72265e3a62.pdf",
+    "static/media/php.png": "/static/media/php.029374a3097c6eea6eb3.png",
+    "static/media/cassandra.png": "/static/media/cassandra.7704647ede2acbe37e90.png",
+    "static/media/sqlserver.svg": "/static/media/sqlserver.9546ba966d0b58c120be60edffcca405.svg",
+    "static/media/mysql.svg": "/static/media/mysql.09f9d6f770acc8cc71ae639d701b40d1.svg",
+    "static/media/golang.svg": "/static/media/golang.c6b5b0a2490db0c32b570cf41ead9bac.svg",
+    "static/media/postgresql.svg": "/static/media/postgresql.ee277c58c83c37b5555285cb7c2b477a.svg",
+    "static/media/csharp.svg": "/static/media/csharp.e2c0510d2b743a87e7621b703ba07906.svg",
+    "static/media/node-icon.svg": "/static/media/node-icon.cc3d45a160579a330a5c17cc2c8f1407.svg",
+    "static/media/whatsapp.svg": "/static/media/whatsapp.459dad86534ca5699520ed770f3ce605.svg",
+    "index.html": "/index.html",
+    "static/media/phone-icon.svg": "/static/media/phone-icon.fc7195139d684fa2f6bb03b8b9816095.svg",
+    "static/media/docker.svg": "/static/media/docker.4672205ccda4bb54e854cd316c685466.svg",
+    "static/media/github.svg": "/static/media/github.d344c0fc70ddfb6de253ddc40adcb086.svg",
+    "static/media/email-icon.svg": "/static/media/email-icon.a5dd245e834641e729e77e40309039c4.svg",
+    "static/media/dotnet-logo.svg": "/static/media/dotnet-logo.b4a1f214e0667e233ce63e039e7066ca.svg",
+    "static/media/elasticsearch.svg": "/static/media/elasticsearch.3b3b106ca35b3e9d39268e8d799ffd27.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.4f00d78f67f451cf01173f7418aa186f.svg",
+    "main.039bf95e.css.map": "/static/css/main.039bf95e.css.map",
+    "main.3d7fd115.js.map": "/static/js/main.3d7fd115.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.039bf95e.css",
+    "static/js/main.3d7fd115.js"
+  ]
+}
