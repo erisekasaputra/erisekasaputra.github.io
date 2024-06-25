@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/erisekasaputra/erisekasaputra.github.io/static/css/main.6d77f031.css",
+    "main.js": "/erisekasaputra/erisekasaputra.github.io/static/js/main.902cb68c.js",
+    "static/js/787.82125f0c.chunk.js": "/erisekasaputra/erisekasaputra.github.io/static/js/787.82125f0c.chunk.js",
+    "static/media/slick.svg": "/erisekasaputra/erisekasaputra.github.io/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/erisekasaputra/erisekasaputra.github.io/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/erisekasaputra/erisekasaputra.github.io/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/erisekasaputra/erisekasaputra.github.io/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/erisekasaputra/erisekasaputra.github.io/index.html",
+    "main.6d77f031.css.map": "/erisekasaputra/erisekasaputra.github.io/static/css/main.6d77f031.css.map",
+    "main.902cb68c.js.map": "/erisekasaputra/erisekasaputra.github.io/static/js/main.902cb68c.js.map",
+    "787.82125f0c.chunk.js.map": "/erisekasaputra/erisekasaputra.github.io/static/js/787.82125f0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d77f031.css",
+    "static/js/main.902cb68c.js"
+  ]
+}
